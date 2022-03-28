@@ -1,5 +1,5 @@
 {
-    "nodeAddr":     "localhost",
+    "nodeAddr":     "https://beresheet2.edgewa.re/evm",
     "gethPort":     8545,
     "startBlock":   0,
     "endBlock":     "latest",
@@ -8,9 +8,9 @@
     "patch":        true,
     "patchBlocks":  100,
     "settings": {
-        "symbol": "ETC",
-        "name": "Ethereum Classic",
-        "title": "Ethereum Classic Block Explorer",
-        "author": "Elaine"
+        "symbol": "EDG",
+        "name": "Edgeware",
+        "title": "Edgeware Block Explorer",
+        "author": "Bharathcoorg"
     }
 }
