@@ -1,5 +1,5 @@
 {
-    "nodeAddr":     "localhost",
+    "nodeAddr":     "https://beresheet2.edgewa.re/evm",
     "gethPort":     8545,
     "startBlock":   0,
     "endBlock":     "latest",
@@ -10,10 +10,10 @@
     "bulkSize":     100,
     "CMC_API_KEY":  "<PUT CMC API KEY HERE>",
     "settings": {
-        "symbol": "CLO",
-        "name": "Callisto Network",
-        "title": "Callisto Network Blockchain Explorer",
-        "author": "Callisto Network Community",
+        "symbol": "EDG",
+        "name": "Edgeware Network",
+        "title": "Edgeware Blockchain Explorer",
+        "author": "Bharathcoorg",
         "useEthFiat": false,
         "tokenList": "tokens.json",
         "miners": {
